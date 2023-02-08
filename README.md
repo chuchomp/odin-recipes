@@ -6,4 +6,3 @@ Hopefully, this undertaking will aid to cement the necessary skills for becoming
 
 Thank you for reading.
 
-Note to self: Do not falter, I belive in you.
