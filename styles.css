@@ -1,0 +1,29 @@
+.main-body {
+    background-image: url(./imgs/bgimg2.jpeg);
+    background-color: rgb(132, 184, 229);
+    
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 78px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.main-list {
+    font-size: 39px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipe-header {
+    color:rgb(202, 33, 27);
+}
